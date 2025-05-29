@@ -10,7 +10,7 @@ A Laravel-based backend API designed to bridge the gap between students and camp
 - 🔐 JWT Authentication
 - 🛍️ Vendor and Student registration/login
 - 🧾 Product listing and management
-- 📦 Category, tag, and variation support
+- 📦 Category, subcatgeory, childcategory and brands
 - 🌍 Country, state, and city selection
 - 📧 OTP-based email verification
 - 💬 Real-time chat with WebSockets (Laravel Reverb)
